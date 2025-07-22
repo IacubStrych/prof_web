@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    display: flex;
+    
+
+}
+body{
+    flex-direction: column;
+}
+
+.header_frame{
+    justify-content: space-evenly;
+    background-color: #1f2937 ;
+
+}
+
+.subheader_frame{
+    background-color: #1f2937;
+}
